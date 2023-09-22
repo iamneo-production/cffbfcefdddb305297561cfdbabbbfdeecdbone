@@ -7,6 +7,6 @@ terraform{
     
 }
 provider "aws"{
-    profile="deafult"
-    region="Singapore"
+    
+    region="ap-southeast-
 }
